@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.3.1//EN
+N:;Current Location;;;
+FN: Current Location   
+item1.URL;type=pref:http://maps.apple.com/?ll=19.108048\,73.019647&q=19.108048\,73.019647
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:https://maps.apple.com/?ll=19.108048\,73.019647&q=Current%20Location&_ext=EiQp8WWiCKkbM0Axu5195UFBUkA58WWiCKkbM0BBu5195UFBUkAiQ2h0dHA6Ly9tYXBzLmFwcGxlLmNvbS8/bGw9MTkuMTA4MDQ4LDczLjAxOTY0NyZxPTE5LjEwODA0OCw3My4wMTk2NDc%3D
+item2.X-ABLabel:map url
+END:VCARD

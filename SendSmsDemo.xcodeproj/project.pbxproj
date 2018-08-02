@@ -15,6 +15,7 @@
 		1A49FEDC20AECDEE001ECE7F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A49FEDA20AECDEE001ECE7F /* LaunchScreen.storyboard */; };
 		1A49FEE720AECDEE001ECE7F /* SendSmsDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A49FEE620AECDEE001ECE7F /* SendSmsDemoTests.swift */; };
 		1A49FEF220AECDEE001ECE7F /* SendSmsDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A49FEF120AECDEE001ECE7F /* SendSmsDemoUITests.swift */; };
+		1A49FF0020AEF403001ECE7F /* Current Location.loc.vcf in Resources */ = {isa = PBXBuildFile; fileRef = 1A49FEFF20AEF403001ECE7F /* Current Location.loc.vcf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1A49FEED20AECDEE001ECE7F /* SendSmsDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SendSmsDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A49FEF120AECDEE001ECE7F /* SendSmsDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendSmsDemoUITests.swift; sourceTree = "<group>"; };
 		1A49FEF320AECDEE001ECE7F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A49FEFF20AEF403001ECE7F /* Current Location.loc.vcf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Current Location.loc.vcf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				1A49FECE20AECDED001ECE7F /* AppDelegate.swift */,
 				1A49FED020AECDED001ECE7F /* ViewController.swift */,
+				1A49FEFF20AEF403001ECE7F /* Current Location.loc.vcf */,
 				1A49FED220AECDED001ECE7F /* Main.storyboard */,
 				1A49FED820AECDEE001ECE7F /* Assets.xcassets */,
 				1A49FEDA20AECDEE001ECE7F /* LaunchScreen.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A49FEDC20AECDEE001ECE7F /* LaunchScreen.storyboard in Resources */,
+				1A49FF0020AEF403001ECE7F /* Current Location.loc.vcf in Resources */,
 				1A49FED920AECDEE001ECE7F /* Assets.xcassets in Resources */,
 				1A49FED420AECDED001ECE7F /* Main.storyboard in Resources */,
 			);
